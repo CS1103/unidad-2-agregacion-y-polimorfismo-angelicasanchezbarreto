@@ -1,0 +1,3 @@
+/home/lica-pc/CLionProjects/Polimorfismo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/lica-pc/CLionProjects/Polimorfismo/cmake-build-debug/CMakeFiles/Polimorfismo.dir
+/home/lica-pc/CLionProjects/Polimorfismo/cmake-build-debug/CMakeFiles/edit_cache.dir

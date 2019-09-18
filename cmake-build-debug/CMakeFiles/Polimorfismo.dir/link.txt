@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Polimorfismo.dir/main.cpp.o  -o Polimorfismo 
