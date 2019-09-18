@@ -9,8 +9,8 @@
 #include "Volumen.cpp"
 
 class Biblioteca {
-    int maxLibros;
-    int maxRevistas;
+    int maxLibros=0;
+    int maxRevistas=0;
     vector<Volumen*> *volumenes = new vector<Volumen*>();
 public:
     Biblioteca();

@@ -21,6 +21,7 @@ int main() {
     biblioteca->incluir(COSAS);
     biblioteca->incluir(COSMOPOLITAN);
     biblioteca->mostrarBiblioteca();
+    biblioteca->cantidad();
 
     return 0;
 }
